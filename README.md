@@ -1,6 +1,6 @@
 # DELL INSPIRON 5378 + i7 7500U + INTEL HD 620 + Fenvi BCM94360NG
 
-![about-13 0 1](https://github.com/wendersonrodrigues/EFI-DELL-5378-2EM1-I7-7500U-INTELHD620/blob/38c87de01edeb70c1e9c645f5899ac86f1950a22/IMAGENS/Dell5378Ventura.png)
+![about-13 0 1](https://github.com/wendersonrodrigues/EFI-DELL-5378-2EM1-I7-7500U-INTELHD620/blob/54539d13dccf860ceeddc82cd91c6ec7fe80d6f2/IMAGENS/DELL5378_MACOS_VENTURA_13.png)
 
 **Funcionando Na Ultima Versão Do Macos**: 13.3
 <br>
